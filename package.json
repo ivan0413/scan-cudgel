@@ -1,0 +1,16 @@
+{
+  "name": "scan-cudgel",
+  "version": "1.0.0",
+  "description": "scan by ivan",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "scan",
+    "by",
+    "ivan"
+  ],
+  "author": "ivan",
+  "license": "ISC"
+}
